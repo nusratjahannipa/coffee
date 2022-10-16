@@ -1,0 +1,225 @@
+
+body{
+    width: 100vw;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+nav{
+  
+
+}
+.upper_body{
+    background-color: #f7e4c6;
+    height: 800px;
+}
+.orange{
+    color: orange;
+}
+.container{
+    height: ;
+    margin-top: 20px;
+    display: flex;
+}
+.search{
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    width:12rem ;
+    height: auto;
+    position: relative;
+}
+.img_search{
+    position: absolute;
+    top:130px ;
+    bottom:0px ;
+    right: 0px;
+    left:0px ;
+}
+
+.logo{
+    margin-right: 6rem;
+}
+
+ul{
+    display: flex;
+    gap: 40px;
+    
+}
+li{
+    list-style-type: none;
+    margin-right: 3rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+    font-size: x-large;
+    font-weight: 400;
+}
+.banner{
+    display: flex;
+    margin-left: 5rem;
+    margin-top: 4rem;
+    
+}
+.banner_img{
+
+}
+.hero{
+
+}
+.text{
+    margin-right: 6rem;
+}
+.banner_text{
+  width:21rem;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+.button1{
+    background-color: #2F2105;
+    color: white;
+    font-size: medium;
+    font-weight: 200;
+    padding: 5px;
+    border-radius: 20px;
+}
+.ellipse{
+    position: relative;
+}
+.hero{
+    position: absolute;
+    left: 740px;
+    bottom: 45px;
+    
+}
+.bg_head{
+ position: absolute;
+ right: 30px;
+ top: -60px;
+}
+
+.bg_bottom{
+    position: absolute;
+    left: 0px;
+    bottom: -300px;
+}
+.cappacino{
+    position: absolute;
+    top: 220px;
+    right: 360px;
+    width: 200px;
+    height: 80px;
+
+}
+.ratings{
+    position: absolute;
+    right: 320px;
+    top: 500px;
+    height: 66px;
+    width: 150px;
+
+    
+}
+.star{
+    position: absolute;
+    right: 80px;
+    top:280px ;
+    
+
+}
+.middle{
+    display: flex;
+}
+.rectangle{
+    position: relative;
+    background-color: rgb(244, 187, 137);
+    width: 1050px;
+    height: 320px;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    top: -100px;
+}
+.box1{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border:6px solid rgb(255, 232, 212);
+    border-radius: 15px;
+    top: -100px;
+    left: 10px;
+}
+.star1{
+ position: absolute;
+ top: 20px;
+ left: 30px;
+}
+.star2{
+ position: absolute;
+}
+.star3{
+position: absolute;
+}
+.vanila{
+ position: relative;
+ border-radius: 10px;
+ width: 250px;
+ height: 200px;
+ top: 10px;
+ left:25px ;
+}
+h2{
+    margin: 5px 30px 0 20px;
+}
+.box1_text{
+    display: flex;
+}
+.hot{
+    color:orange;
+background-color: white;
+border: 1px solid rgb(245, 142, 52);
+margin-left: 30px;
+margin-right: 20px;
+}
+.cold{
+    color: orange;
+background-color: white;
+border: 1px solid rgb(245, 142, 52);
+margin-right: 30px;
+
+}
+.cart{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    right: -35px;
+    bottom: -10px;
+}
+.box3{
+    position: relative;
+    bottom: 830px;
+    right: -760px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border:6px solid rgb(255, 232, 212);
+    border-radius: 15px;
+}
+.box2{
+    position: relative;
+    bottom: 517px;
+    left: 425px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border:6px solid rgb(255, 232, 212);
+    border-radius: 15px;
+}
+.text2{
+    position: relative;
+    top: -240px;
+    left: 120px;
+    font-size: 48px;
+}
